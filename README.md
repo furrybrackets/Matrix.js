@@ -1,2 +1,8 @@
 # Vector.js
-A small vector library for JavaScript. Implements most vector arithmetic.
+A small vector library for JavaScript. Implements vector arithmetic.
+
+## Usage Example
+
+```js
+const Vector = require('vector.js');
+```
