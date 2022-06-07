@@ -1,0 +1,12 @@
+{
+  "name": "Vector.js",
+  "version": "1.0.0",
+  "description": "A small vector manipulation library.",
+  "main": "main.js",
+  "repository": "https://github.com/integral-sketch/Vector.js.git",
+  "author": "Peter Johnson <integral.sketch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fraction.js": "^4.2.0"
+  }
+}
