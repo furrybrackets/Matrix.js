@@ -11,6 +11,11 @@ function matrixParse(string) {
 
     ^ this equals the matrix [ [1,2,3], [4,5,6] ]
     */
+
+    // remove spaces before and after the brackets
+    string = string.replace(/\s*\[\s*/, '[');
+    string = string.replace(/\s*\]\s*/, ']');
+    
     var matrix = [];
     var rows = string.split('\n');
     for (var i = 0; i < rows.length; i++) {
