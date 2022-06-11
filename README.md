@@ -1,8 +1,8 @@
-# Vector.js
-A small vector library for JavaScript. Implements vector arithmetic.
+# Matrix.js
+A small matrix library for JavaScript.
 
 ## Usage Example
 
 ```js
-const Vector = require('vector.js');
+const Matrix = require('matrix.js');
 ```
